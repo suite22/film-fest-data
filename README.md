@@ -12,3 +12,7 @@ Collecting film festival and box office data
  
 
 Some of these questions have anecdotal answers but can we find patterns within the data even though the time range is pretty short.
+
+
+# Semi-related questions:
+- When are Oscar winning films usually released in comparison to the competition? 
